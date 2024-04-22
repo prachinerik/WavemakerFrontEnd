@@ -1,0 +1,38 @@
+.inputBlock{
+    display: 'flex'
+}
+
+.title{
+    font-family: fantasy;
+    font-weight: 800;
+    font-size: large;
+    font-style: oblique;
+    color: rgb(1, 1, 52);
+}
+
+.textBlock{
+    height: 200px;
+}
+
+.username{
+    height: 240px;
+    width: 120px;
+    margin: 120px;
+}
+
+.password{
+    height: max-content;
+    width: 120px;
+    margin: 120px;
+
+}
+
+.userinput1{
+    width: max-content;
+    height: 120px;
+}
+
+.btnSignup{
+    padding: 120px;
+    width: 120px;
+}
