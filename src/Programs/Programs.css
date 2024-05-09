@@ -1,0 +1,15 @@
+.card {
+   
+    height: 200px;
+    width: 400px;
+    background-color: azure;
+    color: rgb(1, 1, 52);
+    font-weight: 200;
+   
+}
+
+.form{
+    flex: 1;
+    align-items: normal;
+    
+}
